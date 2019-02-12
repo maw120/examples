@@ -38,41 +38,10 @@ The classification of data is independent of its format. Video of interactions w
 
 If you have questions about the classification or handling of data should be directed to the appropriate data steward, supervisor, departmental security liaison, or the ITS security office. Departmental security liaisons, in coordination with the ITS security office, can assist departments in developing appropriate controls and processes to protect Sensitive or Restricted data. 
 
-Data Classification 
-
-Definition 
-
-Examples 
-
-Sensitive 
-
-(High) 
-
-Sensitive data is the highest data classification category at the University of Akron. It is reserved for information that is either required by law or regulation to protect, or that the university has deemed critical to protect to reduce risk to the institution. Explicit approval from the data steward is needed to access, collect, modify, or change sensitive data. Additional protections beyond standard protections for sensitive data may be required by law or regulation. 
-
-Social Security Numbers 
-
-Credit Card Numbers 
-
-PHI (HIPAA protected data) 
-
-FERPA (Non-directory information) 
-
-Prospective student data 
-
-Donor Data 
-
-CUI (Controlled unclassified information 
-
-HR Data 
-
-Research data 
-
-Restricted 
-
-(Medium) 
-
-Restricted information is the default classification category. Restricted information is not intended for public consumption but does not fit into the sensitive category. Disclosure of restricted information would not significantly harm the university. Access to restricted data is determined by business process need. 
+| Data Classification | Definition | Examples |
+| ------------------- | ---------- | -------- |
+| Sensitive (High)    | Sensitive data is the highest data classification category at the University of Akron. It is reserved for information that is either required by law or regulation to protect, or that the university has deemed critical to protect to reduce risk to the institution. Explicit approval from the data steward is needed to access, collect, modify, or change sensitive data. Additional protections beyond standard protections for sensitive data may be required by law or regulation. | <ul><li>Social Security Numbers</li><li>Credit Card Numbers</li><li>PHI (HIPAA protected data)</li><li>FERPA (Non-directory information)</li><li>Prospective student data</li><li>Donor Data</li><li>CUI (Controlled unclassified information)</li><li>HR Data</li><li>Research data</li></ul>
+| Restricted (Medium) | Restricted information is the default classification category. Restricted information is not intended for public consumption but does not fit into the sensitive category. Disclosure of restricted information would not significantly harm the university. Access to restricted data is determined by business process need. | <ul></ul>
 
 Anything not public or sensitive. 
 
