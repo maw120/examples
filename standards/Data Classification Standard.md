@@ -41,70 +41,26 @@ If you have questions about the classification or handling of data should be dir
 | Data Classification | Definition | Examples |
 | ------------------- | ---------- | -------- |
 | Sensitive (High)    | Sensitive data is the highest data classification category at the University of Akron. It is reserved for information that is either required by law or regulation to protect, or that the university has deemed critical to protect to reduce risk to the institution. Explicit approval from the data steward is needed to access, collect, modify, or change sensitive data. Additional protections beyond standard protections for sensitive data may be required by law or regulation. | <ul><li>Social Security Numbers</li><li>Credit Card Numbers</li><li>PHI (HIPAA protected data)</li><li>FERPA (Non-directory information)</li><li>Prospective student data</li><li>Donor Data</li><li>CUI (Controlled unclassified information)</li><li>HR Data</li><li>Research data</li></ul>
-| Restricted (Medium) | Restricted information is the default classification category. Restricted information is not intended for public consumption but does not fit into the sensitive category. Disclosure of restricted information would not significantly harm the university. Access to restricted data is determined by business process need. | <ul></ul>
-
-Anything not public or sensitive. 
-
-Data whose access is restricted to certain groups or departments on campus. 
-
-Other research data not considered sensitive or public. 
-
-Financial transactions 
-
-NDA data 
-
-Public 
-
-(Low) 
-
-Public data is data that is intended to be made available to the general public or is approved for publication. 
-
-Public facing websites 
-
-Campus maps 
-
-FERPA directory data* 
-
-Faculty/staff directory data 
-
-Research data 
-
+| Restricted (Medium) | Restricted information is the default classification category. Restricted information is not intended for public consumption but does not fit into the sensitive category. Disclosure of restricted information would not significantly harm the university. Access to restricted data is determined by business process need. | <ul><li>Anything not public or sensitive. </li><li>Data whose access is restricted to certain groups or departments on campus.</li><li>Other research data not considered sensitive or public.</li><li>Financial transactions</li><li>NDA data</li></ul>|
+| Public (Low) | Public data is data that is intended to be made available to the general public or is approved for publication. | <ul><li>Public facing websites</li><li>Campus maps</li><li>FERPA directory data</li><li>Faculty/staff directory data</li><li>Research data </li></ul>
  
-
-Roles and Responsibilities 
+## Roles and Responsibilities 
 
 To ensure proper information handling, University of Akron students, faculty, and staff need to be aware of the classification of a piece of information and the risks and procedures involved in the handling of that information. 
 
- 
-
-Data Steward 
-
-The individual or group who has accountability and authority to make decisions about a specific set of data. The data steward is responsible for the function or functions that use the information, determines the levels of protection for the information, makes decisions on appropriate use of the information, and determines the appropriate classification of the information. 
-
-Data Manager 
-
-The persons or unit responsible for implementing the controls the Data Steward identifies. Data managers are responsible for ensuring the appropriate security controls are in place on systems containing sensitive and restricted data. 
-
-Data Users 
-
-Any person who interacts with the data – people or programs that can create, update, read, or delete information. Users are responsible for taking reasonable precautions to preserve the confidentiality of data they have access to. Access to sensitive and restricted data is controlled by the data stewards. 
-
-Campus Units/Departments 
-
-The University of Akron recommends that all campus units that collect and store information document their policies, procedures, and architectures that involve the collection, storage, and analysis of information. This documentation should detail account creation and deletion, records retention and destruction, backup strategies, and other relevant procedures 
+| Role | Responsibility |
+| ---- | -------------- |
+| Data Steward | The individual or group who has accountability and authority to make decisions about a specific set of data. The data steward is responsible for the function or functions that use the information, determines the levels of protection for the information, makes decisions on appropriate use of the information, and determines the appropriate classification of the information. |
+| Data Manager | The persons or unit responsible for implementing the controls the Data Steward identifies. Data managers are responsible for ensuring the appropriate security controls are in place on systems containing sensitive and restricted data. |
+| Data Users | Any person who interacts with the data – people or programs that can create, update, read, or delete information. Users are responsible for taking reasonable precautions to preserve the confidentiality of data they have access to. Access to sensitive and restricted data is controlled by the data stewards. |
+| Campus Units/Departments | The University of Akron recommends that all campus units that collect and store information document their policies, procedures, and architectures that involve the collection, storage, and analysis of information. This documentation should detail account creation and deletion, records retention and destruction, backup strategies, and other relevant procedures. |
 
  
 
-Sensitive Server Registration 
+## Sensitive Server Registration 
 
 The University of Akron tracks servers containing sensitive data. Campus departments are asked to document any servers they may have that contain sensitive and restricted data, and update ITS. 
 
-Incident Reporting 
+## Incident Reporting 
 
 Please report the misuse of or compromise of systems containing sensitive data immediately by emailing security@uakron.edu. 
-
- 
-
- 
-
-Comment Anchor 
