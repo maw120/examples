@@ -1,50 +1,37 @@
-Definitions 
++ 1
++ 2
++ 3
 
- 
+# Definitions 
 
-Data Steward 
+| Term | Definition |
+| :--: | :--------: |
+| Data Steward | The individual or group who maintains authority over the collection and use of data. This person or group determines the acceptable business uses of the information, levels of protection needed for the information, and the data classification of the information. This role generally falls to a functional area such as the Registrar, Human Resources, or the CFO. |
+| Data Manager | The persons or unit responsible for implementing the controls the Data Steward identifies. This role is often Information Technology or departmental support. |
+| Data Users | Any person who interacts with the data – people or programs that can create, update, read, or delete information. |
+| Protected Data | Any information classified as Sensitive or restricted by the University of Akron Data Classification Standard. |
 
-The individual or group who maintains authority over the collection and use of data. This person or group determines the acceptable business uses of the information, levels of protection needed for the information, and the data classification of the information. This role generally falls to a functional area such as the Registrar, Human Resources, or the CFO. 
-
-Data Manager 
-
-The persons or unit responsible for implementing the controls the Data Steward identifies. This role is often Information Technology or departmental support. 
-
-Data Users 
-
-Any person who interacts with the data – people or programs that can create, update, read, or delete information. 
-
-Protected Data 
-
-Any information classified as Sensitive or restricted by the University of Akron Data Classification Standard. 
-
- 
-
-Purpose 
+# Purpose 
 
 All users of Information Technology will interact with data while performing their jobs at the University of Akron. Generally, data will be considered Public, Sensitive, or Restricted and require certain procedures and standards for access and storage. It is the responsibility of the University of Akron to implement these procedures and standards to help users protect their data. 
 
 Certain statutes and regulations may require additional standards and procedures beyond the basic data handling guidelines for each classification. Examples of these statutes and regulations include: 
 
-FERPA 
++ FERPA 
++ HIPPA 
++ PCI-DSS 
++ Research involving CUI 
 
-HIPPA 
 
-PCI-DSS 
-
-Research involving CUI 
-
- 
-
-Scope 
+# Scope 
 
 This standard applies to all data collected, stored or processed by University staff or by third parties via contractual agreements with University departments or other organizational groups. 
 
  
 
-Standards 
+# Standards 
 
-Data and Risk Classifications 
+## Data and Risk Classifications 
 
 To assist in handling multiple forms of data, the University has defined three levels of data classification: Public, Sensitive, and Restricted. Each level of classification represents a specific set of technical and procedural security controls that will help reduce the risks of mishandled information. 
 
